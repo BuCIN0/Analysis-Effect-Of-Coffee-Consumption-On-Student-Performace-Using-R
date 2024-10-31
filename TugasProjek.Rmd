@@ -1,6 +1,6 @@
 ---
-title: "IS240 Lab 12 Student Sheet"
-author: "Tan Thing Heng (Prodi Sistem Informatika UMN)"
+title: "Analysis-Effect-Of-Coffee-Consumption-On-Student-Performace-Using-R"
+author: "Ray Anthony Pranoto"
 institute: "Prodi Sistem Informatika UMN"
 output:
   pdf_document:
@@ -23,14 +23,12 @@ library(readxl)
 
 ------------------------------------------------------------------------
 
-| Topik     | Statistika Nonparametrik untuk 2 Populasi            |
-|-----------|------------------------------------------------------|
-| Pertemuan | 12                                                   |
-| Nama      | Ray Anthony P, Nicholas Alven, Christopher Abie Diaz |
-| Kelas     |                                                      |
-| NIM       |                                                      |
-| Tanggal   | 2020-04                                              |
-| Waktu     | maks 100 menit                                       |
+| Topik     | Analysis Effect Of Coffee Consumption On Student Performace Using R   |
+|-----------|---------------------------------------------------------------------- |
+| Tugas     | Project                                                               |
+| Nama      | Ray Anthony P                                                         |
+| NIM       | 00000066655                                                           |
+| Tanggal   | 2020-04                                                               |
 
 ------------------------------------------------------------------------
 
